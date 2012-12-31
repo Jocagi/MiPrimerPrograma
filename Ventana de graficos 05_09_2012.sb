@@ -1,0 +1,6 @@
+GraphicsWindow.BackgroundColor = "Cyan"
+GraphicsWindow.Title = "Esta es mi ventena de graficos"
+GraphicsWindow.Width = 320
+GraphicsWindow.Height = 200
+GraphicsWindow.Show()
+

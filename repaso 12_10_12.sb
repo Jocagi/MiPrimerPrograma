@@ -1,0 +1,10 @@
+TextWindow.BackgroundColor="Blue"
+TextWindow.WriteLine("Bienvenidos a Small Basic")
+TextWindow.WriteLine("Repaso de computacion")
+TextWindow.WriteLine("Mi nombre es: Jose Carlos Giron Marquez")
+TextWindow.WriteLine("Estudio en: El Colegio Montesquieu")
+TextWindow.WriteLine("Fecha de hoy: 12/10/2012")
+
+
+
+

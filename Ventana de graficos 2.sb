@@ -1,0 +1,5 @@
+GraphicsWindow.BackgroundColor = "Tan"
+GraphicsWindow.Title = "Asi se ve mi ventana"
+GraphicsWindow.Width = 360
+GraphicsWindow.Height = 300
+GraphicsWindow.Show()

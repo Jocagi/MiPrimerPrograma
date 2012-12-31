@@ -1,0 +1,9 @@
+GraphicsWindow.Width = 500
+GraphicsWindow.Height = 500
+GraphicsWindow.PenColor ="yellow"
+GraphicsWindow.PenWidth = 5
+GraphicsWindow.DrawLine(10,10,100,100)
+GraphicsWindow.PenColor = "red"
+GraphicsWindow.PenWidth = 3
+GraphicsWindow.DrawLine(10,100,100,10)
+GraphicsWindow.BackgroundColor = "steelblue"

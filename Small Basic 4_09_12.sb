@@ -1,0 +1,5 @@
+TextWindow.WriteLine("Bienvenidos a small basic")
+TextWindow.WriteLine("Me da mucho guato en conocerlos")
+TextWindow.WriteLine("Mi nombre es...Jose Carlos")
+TextWindow.WriteLine("Espero que aprendamos mucho")
+TextWindow.WriteLine("Hasta la vista")
